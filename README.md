@@ -9,3 +9,6 @@ Geeksforgeeks data structure problem solutions- https://www.geeksforgeeks.org/da
 
 2nd problem- https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/
 2nd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Spacecomplex_array_rotation.cpp
+
+3rd problem- https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/
+3rd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp
