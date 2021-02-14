@@ -12,3 +12,6 @@ Geeksforgeeks data structure problem solutions- https://www.geeksforgeeks.org/da
 
 3rd problem- https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/
 3rd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp
+
+4th question- https://www.geeksforgeeks.org/binary-search/
+4th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp
