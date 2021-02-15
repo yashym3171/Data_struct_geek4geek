@@ -22,4 +22,7 @@ learned a new amazing algo, great idea, was not that big a deal.
 4th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp
 
 5th question- 
+I mean really!, extensively simple and I still somehow manajed to waste hours on this one, i am really lazy.
+
+6th question- 
 ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok took 2 days and somehow got the code running but hell no, not again! that shit- time complexity.
