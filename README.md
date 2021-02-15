@@ -1,5 +1,5 @@
 # Data_struct_geek4geek
-So here all this starts, my journey as a programmer. first stop as sujjested by bhaiu bhaiya is NPTEL and geeksforgeeks(DSA). Then leet code, then will let u know when I will face it.
+So here all this starts, my journey as a programmer. first stop as suggested by bhaiu bhaiya is NPTEL and geeksforgeeks(DSA). Then leet code, then will let u know when I will face it.
 
 Geeksforgeeks data structure problem solutions- https://www.geeksforgeeks.org/data-structures/
 
