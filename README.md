@@ -22,7 +22,7 @@ the biggest idiotic thing they did, first rotate array with time then with space
 learned a new amazing algo, great idea, was not that big a deal.
 4th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp
 
-5th question- 
+5th question- https://practice.geeksforgeeks.org/problems/sum-of-series2811/1
 I mean really!, extensively simple and I still somehow manajed to waste hours on this one, i am really lazy.
 
 6th question- https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
