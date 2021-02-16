@@ -27,4 +27,4 @@ I mean really!, extensively simple and I still somehow manajed to waste hours on
 
 6th question- https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
 ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok took 2 days and somehow got the code running but hell no, not again! that very same shit (time complexity). well finally took 3 days for this and here it is.
-6th solution- 
+6th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search_in_rotated_array.cpp
