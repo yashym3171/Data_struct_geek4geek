@@ -25,5 +25,6 @@ learned a new amazing algo, great idea, was not that big a deal.
 5th question- 
 I mean really!, extensively simple and I still somehow manajed to waste hours on this one, i am really lazy.
 
-6th question- 
-ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok took 2 days and somehow got the code running but hell no, not again! that shit- time complexity.
+6th question- https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok took 2 days and somehow got the code running but hell no, not again! that very same shit (time complexity). well finally took 3 days for this and here it is.
+6th solution- 
