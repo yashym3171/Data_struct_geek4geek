@@ -33,3 +33,8 @@ ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok 
 7th question- https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/
 this one was not a big deal, just the example are using classes while the problem and the solution is using structure.
 7th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/insertingNodeInLinkedList.cpp
+
+8th question- https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/
+finally!!! feeling like i got the fundamental understanding of link list, the underlying principle of this amazing data structre.
+8th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
+
