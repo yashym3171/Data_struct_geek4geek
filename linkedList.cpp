@@ -31,17 +31,38 @@ Node* insertAtEnd(int i, Node* head){
 return head;
 }
 
-Node* deleteNode(Node* head, int y){
-    struct Node* current=new Node(0);
-    current=head;
+//this part just skips a node
+// Node* skipNode(Node* head, int y){
+//     struct Node* current=new Node(0);
+//     current=head;
     
+//     if(y==1)
+//         return head->next;
+        
+//     for(int i=1; i<y-1; i++){
+//         current=current->next;
+//     }
+//     current->next = current->next->next;
+    
+//     return head;
+// }
+
+//this part deletes a node
+Node* deleteNode(Node* head, int y){
+    struct Node* current=NULL;
+    struct Node* temp=NULL;
+    current=head;
+    temp=head->next;
+
     if(y==1)
         return head->next;
         
     for(int i=1; i<y-1; i++){
         current=current->next;
+        temp=temp->next;
     }
-    current->next = current->next->next;
+    current->next = current->next->next; //or current->next=temp->next;
+    delete temp;
     
     return head;
 }
