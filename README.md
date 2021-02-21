@@ -42,3 +42,6 @@ After getting the underlying principle of linkedList i thought to creat a basic 
 9th question- https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
 just a joke it was, nothing to say.
 9th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkListSize.cpp
+
+10th question- https://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
+10th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValue.cpp
