@@ -40,3 +40,6 @@ finally!!! feeling like i got the fundamental understanding of link list, the un
 
 After getting the underlying principle of linkedList i thought to creat a basic structure of linkedList and its basic operation and here it is- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkedList.cpp
 
+9th question- https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+just a joke it was, nothing to say.
+9th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkListSize.cpp
