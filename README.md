@@ -38,3 +38,5 @@ this one was not a big deal, just the example are using classes while the proble
 finally!!! feeling like i got the fundamental understanding of link list, the underlying principle of this amazing data structre.
 8th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
 
+After getting the underlying principle of linkedList i thought to creat a basic structure of linkedList and its basic operation and here it is- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkedList.cpp
+
