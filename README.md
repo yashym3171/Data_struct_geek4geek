@@ -45,3 +45,6 @@ just a joke it was, nothing to say.
 
 10th question- https://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
 10th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValue.cpp
+
+11th question- https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+11th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValueFromLast.cpp
