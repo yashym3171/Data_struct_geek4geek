@@ -73,7 +73,7 @@ int main(){
 
 	cin >> y;
 
-	if(y!=0 && y<=x)
+	if(y!=0)
 		head=deleteNode(head, y);
 
 	printList(head);
