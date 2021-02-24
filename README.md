@@ -29,26 +29,29 @@ I mean really!, extensively simple and I still somehow manajed to waste hours on
 ohhhh my ----, what the ----, i mean really!! try something small first yrr, ok took 2 days and somehow got the code running but hell no, not again! that very same shit (time complexity). well finally took 3 days for this and here it is.
 6th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search_in_rotated_array.cpp
 
-7th question- https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/
-this one was not a big deal, just the example are using classes while the problem and the solution is using structure.
-7th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/insertingNodeInLinkedList.cpp
+7th question- https://www.geeksforgeeks.org/linked-list-set-1-introduction/
+7th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/printLinkedList.cpp
 
-8th question- https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/
+8th question- https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/
+this one was not a big deal, just the example are using classes while the problem and the solution is using structure.
+8th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/insertingNodeInLinkedList.cpp
+
+9th question- https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/
 finally!!! feeling like i got the fundamental understanding of link list, the underlying principle of this amazing data structre.
-8th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
+9th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
 
 After getting the underlying principle of linkedList i thought to creat a basic structure of linkedList and its basic operation and here it is- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkedList.cpp
 
-9th question- https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+10th question- https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
 just a joke it was, nothing to say.
-9th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkListSize.cpp
+10th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkListSize.cpp
 
-10th question- https://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
-10th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValue.cpp
+11th question- https://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/
+11th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValue.cpp
 
-11th question- https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
-11th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValueFromLast.cpp
+12th question- https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
+12th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValueFromLast.cpp
 
-12th question- https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
+13th question- https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 solved it even without completely reading the question or understanding the input. just dunno how, but did it.
-12th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/pushPop.cpp
+13th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/pushPop.cpp
