@@ -48,3 +48,7 @@ just a joke it was, nothing to say.
 
 11th question- https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
 11th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValueFromLast.cpp
+
+12th question- https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
+solved it even without completely reading the question or understanding the input. just dunno how, but did it.
+12th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/pushPop.cpp
