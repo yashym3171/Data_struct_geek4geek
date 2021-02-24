@@ -49,10 +49,6 @@ just a joke it was, nothing to say.
 11th question- https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
 11th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/nodeValueFromLast.cpp
 
-12th question- https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1
-a little headach but my way out, learned both to skip and delee a node.
-12th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
-
-13th question- https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
+12th question- https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 solved it even without completely reading the question or understanding the input. just dunno how, but did it.
-13th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/pushPop.cpp
+12th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/pushPop.cpp
