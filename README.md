@@ -1,4 +1,4 @@
-# Data_struct_geek4geek
+## Data_struct_geek4geek
 
 Geeksforgeeks data structure problem solutions- https://www.geeksforgeeks.org/data-structures/
 
