@@ -1,6 +1,6 @@
 ## Data_struct_geek4geek
 
-Geeksforgeeks data structure problem solutions- https://www.geeksforgeeks.org/data-structures/
+<a href="https://www.geeksforgeeks.org/data-structures/">Geeksforgeeks data structure problem solutions</a>
 
 
 > Array- <a href="https://www.geeksforgeeks.org/array-data-structure/"> array </a>
