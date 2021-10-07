@@ -32,7 +32,7 @@
 9th question- https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/  
 9th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/deleteNode.cpp
 
-After getting the underlying principle of linkedList i thought to creat a basic structure of linkedList and its basic operation and here it is- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkedList.cpp
+After getting the underlying principle of linkedList i thought to creat a basic structure of linkedList and its basic operation and here it is- <a href = "https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkedList.cpp"> basic operation for linkedlist </a>
 
 10th question- https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/  
 10th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/linkListSize.cpp
