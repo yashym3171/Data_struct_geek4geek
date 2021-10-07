@@ -5,7 +5,7 @@
 
 > Array- <a href="https://www.geeksforgeeks.org/array-data-structure/"> array </a>
 
-1st problem- https://www.geeksforgeeks.org/array-rotation/  
+1st problem- <a href="https://www.geeksforgeeks.org/array-rotation/">array-rotation</a>  
 1st solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Timecomplex_array_rotation.cpp
 
 2nd problem- https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/  
