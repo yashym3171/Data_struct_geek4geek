@@ -5,7 +5,8 @@ int searchInSorted(int arr[], int N, int K) {
         if (K==arr[x]){
             r=1;
             break;
-        }
+        } 
+        //Checking the constraint
         if(l>=h || l<0 || h>N-1){
             r=-1;
             break;
