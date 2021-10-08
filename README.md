@@ -8,8 +8,8 @@
 1st problem- <a href="https://www.geeksforgeeks.org/array-rotation/">array-rotation</a>  
 1st solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Timecomplex_array_rotation.cpp">Timecomplex_array_rotation</a>
 
-2nd problem- https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/  
-2nd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Spacecomplex_array_rotation.cpp
+2nd problem- <a href="https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/">program-for-array-rotation-continued-reversal-algorithm</a>  
+2nd solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Spacecomplex_array_rotation.cpp">Spacecomplex_array_rotation</a>
 
 3rd problem- https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/  
 3rd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp
