@@ -11,8 +11,8 @@
 2nd problem- <a href="https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/">program-for-array-rotation-continued-reversal-algorithm</a>  
 2nd solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Spacecomplex_array_rotation.cpp">Spacecomplex_array_rotation</a>
 
-3rd problem- https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/  
-3rd solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp
+3rd problem- <a href="https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/">c-program-cyclically-rotate-array-one</a>  
+3rd solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp">Cyclic_unit_array_rotation</a>
 
 4th question- https://www.geeksforgeeks.org/binary-search/  
 4th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp
