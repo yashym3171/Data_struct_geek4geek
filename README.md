@@ -15,7 +15,7 @@
 3rd solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Cyclic_unit_array_rotation.cpp">Cyclic_unit_array_rotation</a>
 
 4th question- <a href="https://www.geeksforgeeks.org/binary-search/">binary-search</a>  
-4th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp
+4th solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp">Binary_search</a>
 
 5th question- https://practice.geeksforgeeks.org/problems/sum-of-series2811/1  
 5th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Sum_of_first_n_natural_no.cpp
