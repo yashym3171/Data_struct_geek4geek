@@ -18,7 +18,7 @@
 4th solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search.cpp">Binary_search</a>
 
 5th question- <a href="https://practice.geeksforgeeks.org/problems/sum-of-series2811/1">sum-of-series2811</a>
-5th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Sum_of_first_n_natural_no.cpp
+5th solution- <a href="https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Sum_of_first_n_natural_no.cpp">Sum_of_first_n_natural_no</a>
 
 6th question- https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/  
 6th solution- https://github.com/prathamiitp/Data_struct_geek4geek/blob/master/Binary_search_in_rotated_array.cpp
